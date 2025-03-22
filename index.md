@@ -13,3 +13,5 @@
 ✅ "Updated index.md with a header"
 ✅ "Created a heading in index.md"
 
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
